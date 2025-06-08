@@ -19,5 +19,7 @@ func init() {
 		{"Fix adb", true, ",adb-fix"},
 		{"Start tweety", true, "twtty up"},
 		{"Stop tweety", true, "twtty down"},
+		{"Share with QR", true, ",share"},
+		{"Get status info", true, ",da -notick"},
 	}
 }
