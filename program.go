@@ -21,5 +21,6 @@ func init() {
 		{"Stop tweety", true, "twtty down"},
 		{"Share with QR", true, ",share"},
 		{"Get status info", true, ",da -notick"},
+		{"Enter emoji", true, "rofimoji"},
 	}
 }
